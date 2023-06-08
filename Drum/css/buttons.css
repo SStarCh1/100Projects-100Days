@@ -1,0 +1,21 @@
+button {
+    position: absolute;
+    z-index: 1; 
+  }
+  #btnA{
+    margin-top: 60%;
+    margin-left: 40%;
+  }
+  #btnW{
+    margin-top: 38%;
+    margin-left: 58%;
+  }
+  #btnS{
+    margin-top: 34%;
+    margin-left: 30%;
+  }
+  #btnD{
+    margin-top: 22%;
+    margin-left: 44%;
+  }
+
